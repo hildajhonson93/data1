@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://kuno.datasciencemasters.org/superjp/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/gilajp/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/gojekpot/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/winstrike69/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/slotgacor/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/slotzeus/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/kaptenjackpot/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/boosterjp/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/kerajaanslot/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/pakong86/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/viral88/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/clan4d/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/dinamit4d/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/elang212/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/gori77/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/viral4d/sitemap.xml
+Sitemap: http://kuno.datasciencemasters.org/playground88/sitemap.xml
